@@ -23,7 +23,7 @@
             <br />
          To:<br />
             Bear!<br />
-         \r
+         <p><br />
         <div>
             <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         </div>
